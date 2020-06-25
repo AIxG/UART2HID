@@ -15,6 +15,6 @@ CH9329Test_CfgTool.exe: CH9329 test and configuration tool.
 ![Device Manager](https://raw.githubusercontent.com/AIxG/UART2HID/master/images/device_manager.jpg)
 
 
-3. Run CH9329Test_CfgTool.exe to test or configure the CH9329. The following image shows the default settings.
+3. Run CH9329Test_CfgTool.exe to test or configure the CH9329 (optional). The following image shows the default settings.
 
 ![CH9329](https://raw.githubusercontent.com/AIxG/UART2HID/master/images/CH9329_settings.jpg)
