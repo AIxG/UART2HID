@@ -1,3 +1,2 @@
 # UART2HID
-Emulating standard USB HID devices (including a keyboard, a relative mouse and an absolute mouse) and controlling these devices via UART.
-
+AIxG UART2HID emulates standard USB HID devices (including a keyboard, a relative mouse and an absolute mouse) and controls these devices via UART.
