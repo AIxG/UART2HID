@@ -1,7 +1,9 @@
 # MouseTest
 
-This application uses keyboard to control the mouse emulated by AIxG UART2HID.
-![MouseTest Solution Explorer](https://raw.githubusercontent.com/AIxG/UART2HID/master/images/MouseTest_demo.jpg)
+This application uses keyboard to control the mouse emulated by the AIxG UART2HID.
+
+![MouseTest demo](https://raw.githubusercontent.com/AIxG/UART2HID/master/images/MouseTest_demo.jpg)
+
 
 
 ## Instructions
@@ -13,9 +15,10 @@ This application uses keyboard to control the mouse emulated by AIxG UART2HID.
 3. Copy all the source files(*.cpp and *.h) to the project folder.
 
 4. Add the source files to the project.
+
 ![MouseTest Solution Explorer](https://raw.githubusercontent.com/AIxG/UART2HID/master/images/MouseTest_solution.jpg)
 
 5. Specify your serial port number in MouseTest.cpp, eg:
-#define DEFAULTSERIALPORT	"COM4"
+```#define DEFAULTSERIALPORT	"COM4"```
 
 6. Compile and run!
